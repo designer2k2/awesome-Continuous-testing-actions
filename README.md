@@ -12,6 +12,10 @@ GitHub Actions with examples mostly around Continuous testing for Microcontrolle
 
 ## Code checks
 
+### Actions
+
+- [compile-sketches](https://github.com/arduino/compile-sketches) - Arduino / compile - sketches
+
 ### Compiling examples of Arduino library
 
 For Arduino librarys, this compiles all provided examples. If all compiles its considered a pass.
