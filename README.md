@@ -35,6 +35,7 @@ For any Arduino Project, a provided sketch is compiled. It it compiles its consi
 - [can-multidisplay](https://github.com/designer2k2/can-multidisplay/blob/main/.github/workflows/compile-sketch.yml) - Compile sketch with many libs for Teensy4.
 - [xmas-tree](https://github.com/designer2k2/xmas-tree/blob/master/.github/workflows/compile_sketch.yml) - Compile sketch for Digistump, ESP32C3 and ESP32S2.
 - [BSB-LAN](https://github.com/fredlcore/BSB-LAN/blob/master/.github/workflows/platformio.yaml) - Compile Platformio project.
+- [Arduino-CLI](https://github.com/arduino/arduino-cli-example/blob/master/.github/workflows/test.yaml) - Example from Arduino cli on how how to compile the blink sketch.
 
 ## Surrounding
 
