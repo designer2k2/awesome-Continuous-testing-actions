@@ -15,6 +15,7 @@ GitHub Actions with examples mostly around Continuous testing for Microcontrolle
 ### Actions
 
 - [compile-sketches](https://github.com/arduino/compile-sketches) - Arduino / compile - sketches.
+- [arduino-cli](https://github.com/arduino/setup-arduino-cli) - Arduino / Arduino cli for workflows.
 
 ### Compiling examples of Arduino library
 
