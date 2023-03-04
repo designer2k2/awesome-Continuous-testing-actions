@@ -9,6 +9,7 @@ GitHub Actions with examples mostly around Continuous testing for Microcontrolle
 
 - [Wikipedia CI](https://en.wikipedia.org/wiki/Continuous_testing) - Continuous testing on Wikipedia.
 - [GitHub.com](https://github.com/features/actions) - GitHub Actions.
+- [Guide](https://mirzafahad.github.io/2021-03-09-github-cicd-for-arduino-projects/) - Blog post about how to create a working CI for Arduino.
 
 ## Code checks
 
